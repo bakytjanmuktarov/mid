@@ -33,7 +33,9 @@ body.dark .footer {
   background: black;
   color: white;
 }
-
+body.dark .mininav a {
+  color: white;
+}
 body.dark .theme-btn {
   background: #1c1c1c;
   border-color: white;
